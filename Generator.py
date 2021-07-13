@@ -1,6 +1,4 @@
 # Made by Hxnter69
-@Huñter 
-# Made by Huñter#9934
 import random
 import requests
 from discord_webhook import DiscordWebhook
